@@ -6,7 +6,7 @@
 
 <br/>
 
-This is a logging library which can be extended by new logging libraries and wrapers to be used on .NET applications to log all kind of log.
+This is a logging library which can be extended by new logging libraries and wrappers to be used on .NET applications to log all kind of log entries.
 
 <br/>
 
